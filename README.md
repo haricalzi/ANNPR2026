@@ -1,0 +1,1 @@
+Slides for [ANNPR2026](https://annpr2026.unimi.it) conference, where I presented our work "Counterfactual Explanations for Graph Neural Networks in Patient Outcome Predictions" ([Paper](https://link.springer.com/chapter/10.1007/978-3-032-39028-8_5), [Preprint](https://www.biorxiv.org/content/10.64898/2026.05.18.725906v2))
